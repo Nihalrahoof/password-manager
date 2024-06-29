@@ -16,7 +16,7 @@ Create table is my sql workbench, table specifications:
   
   
 
-In python environment please install:
+In Python environment please install:
  pip install flask
  pip install mysql-connector-python
 
