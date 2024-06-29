@@ -9,7 +9,7 @@ Create table is my sql workbench, table specifications:
   platform_id:not null
   password:not null
 
-  ![](homepage.JPG)
+  ![](table.png)
   
   
   
